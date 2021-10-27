@@ -1,8 +1,0 @@
-Name: Karkavelraja J,
-City: Puducherry,
-Gender: Male,
-Age: 21,
-Interested_Job_Category: ['Driver', 'Cook', 'Delivery Person'],
-Expected_Monthly_Salary: 15000-20000,
-Name_of_Obtained_Job: OLA CAB DRIVER,
-Salary_of_Obtained_Job: Rs.17000/month
